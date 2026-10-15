@@ -114,10 +114,6 @@ PRODUCT_VENDOR_PROPERTIES += \
 PRODUCT_PACKAGES += \
     RemovePackagesDolby
 
-# DSP Volume Synchronizer
-PRODUCT_PACKAGES += \
-    DSPVolumeSynchronizer
-
 ifeq ($(TARGET_INCLUDES_OEM_App),true)
 # OnePlus DaxUI and daxService
 PRODUCT_PACKAGES += \
