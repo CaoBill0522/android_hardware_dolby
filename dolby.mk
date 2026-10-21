@@ -106,7 +106,6 @@ PRODUCT_PACKAGES += \
 # Motorola bloatwares
 PRODUCT_PACKAGES += \
     MotoSignatureApp \
-    MotoDolbyDax3 \
     MotorolaSettingsProvider \
     daxService \
     com.motorola.frameworks.core.addon \
